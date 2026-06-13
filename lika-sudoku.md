@@ -44,11 +44,12 @@ If you sign in and appear on the leaderboard, your **nickname** and **country** 
 
 We do **not** sell or rent your information. We share data only as needed to operate the App:
 
-* **Google** — Google Sign-In and Google Play Games Services (authentication and achievements on Android).
-* **Apple** — Sign in with Apple (authentication).
+* **Google** — Google Sign-In, for authentication.
+* **Apple** — Sign in with Apple, for authentication.
 * **Our backend infrastructure** — your account and game data are stored on our own server, operated for Likapa Studios.
 
 These providers process data under their own privacy policies. Google Play may also collect standard diagnostic information automatically under Google's policies.
+
 
 ---
 
