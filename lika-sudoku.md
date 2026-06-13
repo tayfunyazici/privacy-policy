@@ -1,68 +1,88 @@
 # 🔒 Privacy Policy
 
+**Last updated: 14 June 2026**
+
 ## 1. Introduction
 
-This Privacy Policy explains the types of information collected, how it is used, and how it is protected by the **Lika Sudoku** mobile application (provided by **Likapa Studios**) from its users.
+This Privacy Policy explains what information the **Lika Sudoku** mobile application ("the App", provided by **Likapa Studios**) collects, how it is used, and how it is protected.
 
-By using our application, you agree to the terms of this policy.
+By using the App, you agree to this policy.
 
 ---
 
 ## 2. Information We Collect
 
-The **Lika Sudoku** application, primarily functioning as a Sudoku game, **does not directly collect** personally identifiable information (such as name, address, phone number, etc.).
+**Lika Sudoku** is a Sudoku game. You can play the entire game **without an account** — in that case your progress, statistics and preferences stay **only on your device**.
 
-However, we may collect the following indirect and non-personal information:
+If you choose to **sign in** (to use the online leaderboard and sync your progress across devices), we collect:
 
-* **Usage Data:** Data such as in-app progress, statistics of solved puzzles, playtime, high scores, and in-app preferences.
-* **Device Information:** Your device type, operating system version, language settings, and application crash logs.
-* **Data from Advertising and Analytics Services (If Applicable):** If your application contains advertisements (e.g., AdMob) or uses services like Google Analytics, these third-party services may collect IP addresses, device identifiers, and ad interaction data.
+* **Account information:** Your **email address** and a unique account identifier provided by your sign-in provider (**Google** or **Apple**). With Sign in with Apple you may choose to hide your email, in which case Apple relays a private address. This is used to create and identify your account.
+* **Profile information:** A **nickname** and a **country**, both of which **you choose yourself** (we do not detect your location). These are shown publicly on the leaderboard.
+* **Game data:** Your puzzle statistics — such as completed puzzles, experience points, streaks, solve times and achievements — synced to our server so they can be restored on a new device and ranked on the leaderboard.
+* **Technical data:** When your device communicates with our server we receive your **IP address** and request timestamps, used for security, rate-limiting and cheat/abuse prevention.
 
----
-
-## 3. How We Use the Information
-
-We use the information we collect for the following purposes:
-
-* To ensure the **functionality** and **performance** of the application.
-* To improve and **personalize** the user experience (e.g., showing statistics and adjusting difficulty levels).
-* To resolve technical issues and **fix errors** in the application.
-* (If applicable) To serve relevant ads and measure the effectiveness of advertising campaigns.
-* To perform **analysis** regarding application usage.
+We do **not** collect your real name, postal address, phone number, contacts, photos or precise location. The App contains **no advertising** and uses **no third-party analytics or tracking SDKs**.
 
 ---
 
-## 4. Sharing of Information (Third Parties)
+## 3. How We Use Information
 
-We do not sell or rent your personally identifiable information. However, we may share indirect information with third-party service providers that are necessary for the application's operation or to improve the user experience:
-
-* **Advertising Providers:** If your application contains ads (e.g., Google AdMob), these providers may collect and use data subject to their own privacy policies.
-* **Analytics Providers:** Services that help us understand application usage (e.g., Google Firebase/Analytics).
-* **Error Monitoring Services:** Services that analyze application crash data.
-
-We encourage you to review the privacy policies of these third parties.
+* To provide the **account, leaderboard and cross-device sync** features.
+* To **save and restore** your game progress.
+* To operate and secure our service (preventing abuse, cheating and spam).
+* To respond to your support requests.
 
 ---
 
-## 5. Data Security
+## 4. Public Leaderboard
 
-We take reasonable security measures to protect your information against unauthorized access, disclosure, alteration, or destruction. However, no data transmission over the internet or mobile application can be guaranteed to be 100% secure.
-
----
-
-## 6. Children's Privacy
-
-Our application is intended for individuals **above 13**. We do not knowingly collect personal information from individuals under this age limit. If a parent or guardian learns that their child has provided us with personal information, please contact us.
+If you sign in and appear on the leaderboard, your **nickname** and **country** are visible to other players (globally and by country). Your email and account identifiers are **never** shown publicly. You can change your nickname at any time within the App.
 
 ---
 
-## 7. Changes to This Policy
+## 5. Sharing With Third Parties
 
-We may update this Privacy Policy from time to time. We will notify you by posting the new policy on this page. Changes are effective immediately upon being posted on this page.
+We do **not** sell or rent your information. We share data only as needed to operate the App:
+
+* **Google** — Google Sign-In and Google Play Games Services (authentication and achievements on Android).
+* **Apple** — Sign in with Apple (authentication).
+* **Our backend infrastructure** — your account and game data are stored on our own server, operated for Likapa Studios.
+
+These providers process data under their own privacy policies. Google Play may also collect standard diagnostic information automatically under Google's policies.
 
 ---
 
-## 8. Contact Us
+## 6. Data Retention and Deletion
+
+We keep your account data for as long as your account exists. **You can request deletion of your account and all associated data at any time** by contacting us at the email below; we will delete your account, profile and synced statistics from our server. Data stored only on your device is removed when you uninstall the App.
+
+---
+
+## 7. Data Security
+
+We take reasonable measures to protect your information against unauthorized access, alteration or disclosure. Account access is protected by a token stored securely on your device. However, no method of transmission or storage over the internet can be guaranteed to be 100% secure.
+
+---
+
+## 8. Children's Privacy
+
+The App is intended for users **aged 13 and above**. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please contact us and we will delete it.
+
+---
+
+## 9. Your Rights
+
+You may request to **access, correct or delete** your personal data, or withdraw consent by deleting your account. To exercise these rights, contact us at the email below.
+
+---
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will post the updated version on this page; changes are effective once posted.
+
+---
+
+## 11. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
