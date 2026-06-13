@@ -55,7 +55,10 @@ These providers process data under their own privacy policies. Google Play may a
 
 ## 6. Data Retention and Deletion
 
-We keep your account data for as long as your account exists. **You can request deletion of your account and all associated data at any time** by contacting us at the email below; we will delete your account, profile and synced statistics from our server. Data stored only on your device is removed when you uninstall the App.
+We keep your account data for as long as your account exists. **You can delete your account at any time from within the App** (Profile → Delete account), or by contacting us at the email below.
+
+When you request deletion, your account is scheduled for permanent removal after a **30-day grace period**; signing in again within that period cancels the deletion and restores your account. After the grace period, your account, profile and synced statistics are permanently deleted from our server. During the grace period your data is hidden from the public leaderboard. Data stored only on your device is removed when you uninstall the App.
+
 
 ---
 
